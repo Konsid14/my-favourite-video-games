@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+.favouritevideogames{
+    text-align: center;
+    color: blue;
+}
+.starting{
+    color: aqua;
+    text-align: center;
+}
+.geometrydashlite{
+    color: blue;
+}
+.stumbleguys{
+    color: brown;
+}
+.thesefavouritevideogames{
+    text-align: left;
+}
+.adash{
+    text-align: center;
+    color: blue;
+}
+.fstpar{
+    color: aquamarine;
+}
+.scnpar{
+    color: blue;
+}
+.thrpar{
+    color: brown;
+}
+.astumble{
+    text-align: center;
+    color: blueviolet;
+}
+.stmfstpar{
+   color: aquamarine; 
+}
+.stmscnpar{
+    color: blue;
+}
+.stmthrpar{
+    color: brown;
+}
+.ending{
+    text-align: center;
+}
