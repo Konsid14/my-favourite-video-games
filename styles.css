@@ -52,3 +52,74 @@ body {
     color: blue;
     text-align: center;
 }
+body {
+    font-family: sans-serif;
+}
+
+.favouritevideogames{
+    text-align: center;
+    color: blue;
+}
+.starting{
+    color: aqua;
+    text-align: center;
+}
+.geometrydashlite{
+    color: blue;
+}
+.stumbleguys{
+    color: brown;
+}
+.thesefavouritevideogames{
+    text-align: left;
+}
+.adash{
+    text-align: center;
+    color: blue;
+}
+.fstpar{
+    color: aquamarine;
+}
+.scnpar{
+    color: blue;
+}
+.thrpar{
+    color: brown;
+}
+.astumble{
+    text-align: center;
+    color: blueviolet;
+}
+.stmfstpar{
+   color: aquamarine; 
+}
+.stmscnpar{
+    color: blue;
+}
+.stmthrpar{
+    color: brown;
+}
+.ending{
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 50px;
+}
+ nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #24d0a89f;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            margin: -10px;
+ }
+  nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            background-color: darkblue;
+            border-radius: 50px;
+        }
